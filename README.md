@@ -1,5 +1,5 @@
-# strategy-pattern-java
+# design-patterns
 
-Estudo de implementação simples utilizando design pattern strategy.
+Estudo de implementação simples utilizando design patterns
 
-O Pattern ajuda a deixar o código mais limpo de if else e switch cases, além de garantir os principios do SOLID de Single Responsability e Open/Close.
+A idéia é manter esse repositório para consulta.
